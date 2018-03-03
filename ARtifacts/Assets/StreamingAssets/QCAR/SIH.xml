@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="COLT" size="5.000000 3.750000" />
+    <ImageTarget name="DRAINAGE" size="5.000000 3.745455" />
+    <ImageTarget name="OIL_PRESS" size="5.000000 3.645000" />
+    <ImageTarget name="VASE" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
